@@ -1,110 +1,248 @@
-Hey, I'm Tharun 👋
+<div align="center">
 
-Developer • AI Enthusiast • Cybersecurity Explorer
+# 👋 Hey, I'm Tharun SP
 
-I'm a developer who enjoys turning ideas into working products — from modern websites and web applications to AI-powered platforms.
+### Computer Science Engineering Student • AI Builder • Cybersecurity Enthusiast • Product-Minded Developer
 
-I like experimenting with new technologies, building practical projects, and continuously learning through hands-on development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+products.;Exploring+AI%2C+Cybersecurity+%26+Cloud.;Learning+by+building%2C+breaking+%26+improving.;Future+Software+%26+Technology+Professional." alt="Typing SVG" />
 
----
-
-About Me
-
-- Building web applications and digital products
-- Exploring AI-powered applications and intelligent systems
-- Interested in Cybersecurity & ethical hacking
-- Learning through real-world projects and experimentation
-- Always exploring new technologies and development workflows
-
----
-
-Featured Projects
-
-🤖 ANDIS Platform
-
-An AI-powered application built with a modern full-stack architecture.
-
-Tech: TypeScript • Python • Vite • Node.js • AI APIs
-
-→ "View ANDIS Platform" (https://github.com/tharunsp2009/andis-platform)
-
----
-
-🌐 Personal Website
-
-A web-based personal portfolio/project website built with Python, HTML and CSS.
-
-Tech: Python • HTML • CSS
-
-→ "View Project" (https://github.com/tharunsp2009/my-website2296)
-
----
-
-💻 Web Project — NewVercel
-
-A modern web project built with HTML, CSS and JavaScript, configured for Vercel deployment.
-
-Tech: HTML • CSS • JavaScript • Vercel
-
-→ "View Project" (https://github.com/tharunsp2009/newvercel)
-
----
-
-Tech Stack
-
-Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-Tools & Technologies
-
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-What I'm Exploring
-
-Web Development       ████████████████████
-AI & Intelligent Apps ██████████████████░░
-Cybersecurity         ████████████████░░░░
-Backend Development   ███████████████░░░░░
-DevOps & Deployment   █████████████░░░░░░░
-
----
-
-Current Focus
-
-Building → Learning → Experimenting → Improving
-
-I'm currently focused on building projects that combine good UI/UX, useful functionality, AI, and modern development technologies.
-
----
-
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunsp2009&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsp2009&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
-
-Let's Connect
-
-<p align="center">
-  <a href="https://github.com/tharunsp2009">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>---
-
-<p align="center">
-  <b>Build. Break. Learn. Repeat.</b>
-</p><p align="center">
-  Thanks for visiting my profile!
+<p>
+<a href="https://github.com/tharunsp2009"><img src="https://img.shields.io/github/followers/tharunsp2009?label=Followers&style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/tharunsp2009?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github" /></a>
+<a href="https://tharun-zeta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
 </p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Tharun SP**, a **3rd-year Computer Science Engineering student** who enjoys turning problems and ideas into practical digital products.
+
+I don't want to learn technology only through theory. I learn best by **building, experimenting, debugging, and improving real projects**.
+
+My current interests sit at the intersection of:
+
+* 🤖 **Artificial Intelligence & AI-powered applications**
+* 🛡️ **Cybersecurity & network defense**
+* 🌐 **Full-stack web development**
+* ☁️ **Cloud & DevOps fundamentals**
+* 💡 **Product thinking, automation & problem solving**
+
+I'm actively preparing for **internships and future software/technology roles**, while continuously building projects that demonstrate how I think and solve problems.
+
+> **My mindset:** Don't just learn a technology. Build something useful with it.
+
+---
+
+## 🧠 What I'm Working On
+
+### 🛡️ ANDIS — Autonomous Network Defense & Intelligence System
+
+A cybersecurity-focused platform designed to monitor network activity, identify suspicious behavior, visualize potential attacks, and support defensive investigation.
+
+**Exploring:**
+
+* Network traffic monitoring
+* Anomaly and suspicious-behavior detection
+* Threat intelligence concepts
+* Attack visualization and movement mapping
+* Endpoint monitoring
+* Isolation and defensive workflows
+* Forensic reporting
+* Real-time application architecture
+
+### 📊 Daily Tracker
+
+A personal accountability and productivity system designed around daily check-ins, progress tracking, and automated email reminders.
+
+**Focus:** automation • scheduling • productivity • consistency
+
+### 🎙️ Seeya AI
+
+An AI companion/voice-interaction project exploring more natural real-time conversations.
+
+**Exploring:**
+
+* Real-time voice interaction
+* Speech-to-text and text-to-speech
+* Voice activity detection
+* Streaming AI responses
+* Multilingual interaction concepts
+* Low-latency turn-taking
+
+### 🌐 Personal Portfolio
+
+My portfolio showcases my projects, technical journey, interests, and the products I'm building.
+
+🔗 **[Visit my portfolio](https://tharun-zeta.vercel.app)**
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming & Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,vite,tailwind,nodejs,express" />
+</p>
+
+### 🤖 AI & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,git,github,vscode" />
+</p>
+
+* Google AI Studio
+* AI-assisted development workflows
+* Prompt engineering
+* AI application prototyping
+* Real-time AI interaction concepts
+
+### ☁️ Cloud, DevOps & Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,mongodb" />
+</p>
+
+* AWS fundamentals
+* Cloud concepts
+* Networking fundamentals
+* Cybersecurity fundamentals
+* Git & GitHub
+* Deployment and web hosting
+* REST APIs
+* WebSockets
+* Authentication concepts
+
+### 🧩 Currently Strengthening
+
+* Data Structures & Algorithms
+* Core Computer Science fundamentals
+* Backend development
+* Databases
+* Cloud & DevOps
+* System design fundamentals
+* Professional communication
+
+---
+
+## 🏗️ How I Build
+
+```text
+💡 Idea
+   ↓
+🔎 Understand the Problem
+   ↓
+🧠 Design the Solution
+   ↓
+🛠️ Build a Working Prototype
+   ↓
+🐛 Test & Debug
+   ↓
+🔐 Improve Security & Reliability
+   ↓
+🎨 Improve UI/UX
+   ↓
+🚀 Deploy
+   ↓
+📈 Learn & Iterate
+```
+
+I especially enjoy the stage where an idea goes from **"What if we built this?"** to **"It's actually working."**
+
+---
+
+## 🎯 Career Direction
+
+I'm preparing myself for opportunities where I can combine **technical understanding + problem solving + product thinking**.
+
+I'm particularly interested in:
+
+* Software Engineering
+* AI / AI Application Development
+* Cybersecurity
+* Cloud & DevOps
+* Product-focused technology roles
+* Automation and practical problem solving
+
+I'm also exploring how technology can be used to solve real problems rather than building projects only for the sake of having projects.
+
+---
+
+## 📚 Learning Philosophy
+
+> **Build → Break → Debug → Understand → Improve → Repeat.**
+
+I believe projects are where concepts become real.
+
+Every project teaches me something different — sometimes a technology, sometimes architecture, sometimes debugging, and sometimes simply how to think about a problem better.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tharunsp2009&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsp2009&layout=compact&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tharunsp2009&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+I'm interested in understanding **how people, products, and technology connect**.
+
+That means I don't only think about:
+
+> "Can I code this?"
+
+I also think about:
+
+> "Who needs this?"
+> "What problem does it solve?"
+> "Can it actually be used?"
+> "How can it be made simpler?"
+> "How can it become a real product?"
+
+That's the mindset I'm trying to develop alongside my technical skills.
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in **AI, cybersecurity, software development, cloud, startups, automation, or building interesting products**, I'd love to connect and exchange ideas.
+
+<div align="center">
+
+<a href="https://github.com/tharunsp2009">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://tharun-zeta.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:tharunsp2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building today. Learning every day. Thinking bigger tomorrow.
+
+<img src="https://komarev.com/ghpvc/?username=tharunsp2009&style=for-the-badge&color=blue" />
+
+</div>
